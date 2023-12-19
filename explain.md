@@ -10,12 +10,14 @@
 <br/><br/>
 
 
-3. git clone 후 Branch를 생성하고 자신의 ID로 폴더를 하나 생성한다.
+## 문제제출 & Pull Request 방법
+
+1. git clone 후 Branch를 생성하고 자신의 ID로 폴더를 하나 생성한다.
 <img width="400px" src="https://github.com/ssung2sin/algorithm-study-sist0615/assets/136788985/ee4d8d21-d40f-4737-b1ed-72b082929951" />
 <br/><br/>
 
 
-4. 생성한 폴더 클릭 후 주차에 맞는 폴더 생성한다 ex) 2-1주차
+2. 생성한 폴더 클릭 후 주차에 맞는 폴더 생성한다 ex) 2-1주차
 <br/>
 
 ## 달력
@@ -31,17 +33,20 @@
 
 <br/><br/>
 
-5. 각자 푼 문제를 주차에 맞는 폴더에 넣고 `git add/ git commit/ git push` 를 한다.
+3. 각자 푼 문제를 주차에 맞는 폴더에 넣고 `git add/ git commit/ git push` 를 한다.
 <br/><br/>
 
-6. 최종적으로 제출 하고 싶을 때 fork 한 repository 에서 `Pull Request`를 클릭한다.
+4. 최종적으로 제출 하고 싶을 때 fork 한 repository 에서 `Pull Request`를 클릭한다.
 <img width="400px" src="https://github.com/ssung2sin/algorithm-study-sist0615/assets/136788985/709ea792-33ad-4d4e-9e05-afc1913171de" />
 <br/><br/>
 
-7. 화살표 우측 head repository을 지나 compare에서 자신의 Branch를 선택 후 `Create New Request` 를 클릭한다.
+5. 화살표 우측 head repository을 지나 compare에서 자신의 Branch를 선택 후 `Create New Request` 를 클릭한다.
 <img width="400px" src="https://github.com/ssung2sin/algorithm-study-sist0615/assets/136788985/3e346aeb-2d9f-42be-9fdd-dac0f0348b39" />
 <br/><br/>
 
-8. `PR 규칙`을 지켜 작성한다.
+6. `PR 규칙`을 지켜 작성한다.
 
 [PR규칙](https://github.com/ssung2sin/algorithm-study-sist0615/assets/136788985/3e346aeb-2d9f-42be-9fdd-dac0f0348b39)
+
+
+## 코드리뷰 방법
