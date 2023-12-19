@@ -45,8 +45,7 @@
 <br/><br/>
 
 6. `PR 규칙`을 지켜 작성한다.
-
-[PR규칙](https://github.com/ssung2sin/algorithm-study-sist0615/blob/master/README.md#4%EF%B8%8F%E2%83%A3-pr-%EA%B7%9C%EC%B9%99)
+* [PR규칙](https://github.com/ssung2sin/algorithm-study-sist0615/blob/master/README.md#4%EF%B8%8F%E2%83%A3-pr-%EA%B7%9C%EC%B9%99)
 
 
 ## 코드리뷰 방법
