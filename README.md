@@ -18,11 +18,16 @@
 
 1. 이 저장소를 `fork` 한다.
 2. 문제를 풀고 문제에 해당하는 폴더에 코드를 업로드한다.
-4. 이 때 `Commit 규칙`을 지키도록 한다.
-5. 원본 저장소로 `Pull Request`를 한다.
-6. 다른 사람들의 PR을 보고 자유롭게 코드 리뷰를 한다.
+3. 이 때 `Commit 규칙`을 지키도록 한다.
+4. 원본 저장소로 `Pull Request`를 한다.
+5. 다른 사람들의 PR을 보고 자유롭게 코드 리뷰를 한다.
 
 <br />
+
+[포크방법](https://github.com/ssung2sin/algorithm-study-sist0615/blob/master/explain.md#%ED%8F%AC%ED%81%AC-%EB%B0%A9%EB%B2%95)
+<br/>
+
+[문제 제출 및 pull request방법](https://github.com/ssung2sin/algorithm-study-sist0615/blob/master/explain.md#%EB%AC%B8%EC%A0%9C%EC%A0%9C%EC%B6%9C--pull-request-%EB%B0%A9%EB%B2%95)
 
 ## 2️⃣ 진행 방식
 
