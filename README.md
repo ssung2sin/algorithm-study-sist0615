@@ -24,10 +24,8 @@
 
 <br />
 
-[포크방법](https://github.com/ssung2sin/algorithm-study-sist0615/blob/master/explain.md#%ED%8F%AC%ED%81%AC-%EB%B0%A9%EB%B2%95)
-<br/>
-
-[문제 제출 및 pull request방법](https://github.com/ssung2sin/algorithm-study-sist0615/blob/master/explain.md#%EB%AC%B8%EC%A0%9C%EC%A0%9C%EC%B6%9C--pull-request-%EB%B0%A9%EB%B2%95)
+* [포크방법](https://github.com/ssung2sin/algorithm-study-sist0615/blob/master/explain.md#%ED%8F%AC%ED%81%AC-%EB%B0%A9%EB%B2%95)
+* [문제 제출 및 pull request방법](https://github.com/ssung2sin/algorithm-study-sist0615/blob/master/explain.md#%EB%AC%B8%EC%A0%9C%EC%A0%9C%EC%B6%9C--pull-request-%EB%B0%A9%EB%B2%95)
 
 ## 2️⃣ 진행 방식
 
