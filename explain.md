@@ -37,11 +37,11 @@
 <br/><br/>
 
 4. 최종적으로 제출 하고 싶을 때 fork 한 repository 에서 `Pull Request`를 클릭한다.
-<img width="400px" src="https://github.com/ssung2sin/algorithm-study-sist0615/assets/136788985/709ea792-33ad-4d4e-9e05-afc1913171de" />
+<img width="700px" src="https://github.com/ssung2sin/algorithm-study-sist0615/assets/136788985/709ea792-33ad-4d4e-9e05-afc1913171de" />
 <br/><br/>
 
 5. 화살표 우측 head repository을 지나 compare에서 자신의 Branch를 선택 후 `Create New Request` 를 클릭한다.
-<img width="400px" src="https://github.com/ssung2sin/algorithm-study-sist0615/assets/136788985/3e346aeb-2d9f-42be-9fdd-dac0f0348b39" />
+<img width="700px" src="https://github.com/ssung2sin/algorithm-study-sist0615/assets/136788985/3e346aeb-2d9f-42be-9fdd-dac0f0348b39" />
 <br/><br/>
 
 6. `PR 규칙`을 지켜 작성한다.
