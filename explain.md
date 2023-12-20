@@ -18,7 +18,7 @@
 
 
 2. 생성한 폴더 클릭 후 주차에 맞는 폴더 생성한다 ex) 2-1주차
-3. <img width="400px" src="https://github.com/ssung2sin/algorithm-study-sist0615/assets/136788985/046509a7-94ef-40a7-9cf3-0091311e7c65" />
+<img width="400px" src="https://github.com/ssung2sin/algorithm-study-sist0615/assets/136788985/046509a7-94ef-40a7-9cf3-0091311e7c65" />
 <br/><br/>
 
 <br/>
