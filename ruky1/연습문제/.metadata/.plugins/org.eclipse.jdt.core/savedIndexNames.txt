@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\pou11\OneDrive\바탕 화면\study\algorithm-study-sist0615\ruky1\연습문제\.metadata\.plugins\org.eclipse.jdt.core
+3789427541.index
+1865797976.index
+2263012992.index
