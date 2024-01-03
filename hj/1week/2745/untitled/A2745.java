@@ -31,6 +31,8 @@ public class A2745 {
         }
         System.out.println(count);
 
+        
+
 
 
 
