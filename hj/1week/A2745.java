@@ -26,20 +26,10 @@ public class A2745 {
 
         // 배열 계산하기
         for (int i=0;i<arr.length;i++){
-            int hoi=(int) Math.pow(n,(arr.length-(i+1)));
-            count+=Integer.parseInt(arr[i])*hoi;
+            int powerOf=(int) Math.pow(n,(arr.length-(i+1)));
+            count+=Integer.parseInt(arr[i])*powerOf;
         }
         System.out.println(count);
-
-        
-
-
-
-
-
-
-
-
 
     }
 }
