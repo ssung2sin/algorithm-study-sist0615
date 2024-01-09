@@ -7,6 +7,7 @@ public class A2745 {
 
         String str=sc.next(); // 주어질 문자
         int n=sc.nextInt(); // 주어질 진법 수
+
         String[] arr=str.split(""); // 입력된 문자를 담아둘 배열
 
         String [] Alphabet={"A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P",
