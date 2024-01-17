@@ -13,15 +13,14 @@
 | 위 시 온 | [wwishh](https://github.com/wwishh) | |
 | 최 성 현 | [dawn-sh](https://github.com/dawn-sh) | |
 | 박 희 찬 | [ItePHC](https://github.com/ItePHC) | |
-| 임 형 준 | [Limchard](https://github.com/Limchard) | |
+| 임 형 준 | [Limchard](https://github.com/Limchard) | [limchard](https://velog.io/@limchard) |
 | 강 연 주 | [qqqkyj](https://github.com/qqqkyj) | |
 | 김 석 진 | [ruky1](https://github.com/ruky1) | |
 | 김 영 환 | [spore2429](https://github.com/spore2429) | |
 | 송 주 영 | [jooyoungsong](https://github.com/jooyoungsong) | |
 | 윤 호 석 | [otfeb](https://github.com/otfeb) | |
-| 진 현 규 | [Hyeonqz](https://github.com/Hyeonqz) | |
+| 진 현 규 | [Hyeonqz](https://github.com/Hyeonqz) | [현규공부방](https://hyeonq.tistory.com) |
 | 장 순 영 | [ssunvibesonly](https://github.com/ssunvibesonly) | |
-| 홍 성 경 | [hsgyeong](https://github.com/hsgyeong) | |
 
 
 ## 1️⃣ 참여 방법
