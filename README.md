@@ -18,9 +18,9 @@
 | 김 석 진 | [ruky1](https://github.com/ruky1) | |
 | 김 영 환 | [spore2429](https://github.com/spore2429) | |
 | 송 주 영 | [jooyoungsong](https://github.com/jooyoungsong) | |
-| 윤 호 석 | [otfeb](https://github.com/otfeb) | [goyoung](https://velog.io/@wlwlgoyo) |
+| 윤 호 석 | [otfeb](https://github.com/otfeb) | |
 | 진 현 규 | [Hyeonqz](https://github.com/Hyeonqz) | [현규공부방](https://hyeonq.tistory.com) |
-| 장 순 영 | [ssunvibesonly](https://github.com/ssunvibesonly) | |
+| 장 순 영 | [ssunvibesonly](https://github.com/ssunvibesonly) | [goyoung](https://velog.io/@wlwlgoyo) |
 
 
 ## 1️⃣ 참여 방법
