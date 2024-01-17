@@ -11,7 +11,7 @@
 |---|---|---|
 | 이 성 신 | [ssung2sin](https://github.com/ssung2sin) | |
 | 위 시 온 | [wwishh](https://github.com/wwishh) | |
-| 최 성 현 | [dawn-sh](https://github.com/dawn-sh) | |
+| 최 성 현 | [dawn-sh](https://github.com/dawn-sh) | [최성현](https://velog.io/@tjdgus9773)|
 | 박 희 찬 | [ItePHC](https://github.com/ItePHC) | |
 | 임 형 준 | [Limchard](https://github.com/Limchard) | [limchard](https://velog.io/@limchard) |
 | 강 연 주 | [qqqkyj](https://github.com/qqqkyj) | |
