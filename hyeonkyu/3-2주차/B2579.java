@@ -7,28 +7,30 @@ import java.io.InputStreamReader;
 public class B2579 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		int N = Integer.parseInt(br.readLine());
-		int[] scoreArr = new int[N+1];
-		int[] dp = new int[301];
+		int n = Integer.parseInt(br.readLine());
 
-		//입력
-		for (int i = 1; i <N+1 ; i++) {
-			scoreArr[i] = Integer.parseInt(br.readLine());
+		int[] stairs = new int[n + 1];
+
+		for (int i = 1; i <= n; i++) {
+			stairs[i] = Integer.parseInt(br.readLine());
 		}
 
-		//계단 개수를 1개 또는 2개로 설정할 경우 처리
-		if(N>=2) {
-			dp[2] = scoreArr[1]+scoreArr[2];
+		int[] dp = new int[n + 1];
+		dp[1] = stairs[1];
+
+		for (int i = 2; i <= n; i++) {
+			if(i==2){
+				dp[2] = stairs[1] + stairs[2];
+			}
+			if(i==3){
+				dp[3] = Math.max(stairs[1], stairs[2]) + stairs[3];
+			}
+			if(i>=4){
+				dp[i] = Math.max(dp[i-3] + stairs[i-1], dp[i-2]) + stairs[i];
+			}
 		}
 
-		for (int i = 3; i <=N ; i++) {
-			dp[i] = Math.max(dp[i-2] + scoreArr[i], dp[i-3] + scoreArr[i-1] + scoreArr[i]);
-
-
-		}
-
-		System.out.println(dp[N]);
-
+		System.out.println(dp[n]);
 	}
 
 }
