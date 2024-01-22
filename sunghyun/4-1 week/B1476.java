@@ -46,6 +46,8 @@ public class B1476 {
 			
 			System.out.println(year);
 		}*/
+
+		//https://propercoding.tistory.com/79 참고
 		
 		Scanner sc=new Scanner(System.in);
 		
