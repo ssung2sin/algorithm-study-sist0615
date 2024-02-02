@@ -23,7 +23,6 @@ public class BJ1991 {
         int node = sc.nextInt();
 
         for (int i = 0; i < node; i++) {
-            // 수정된 부분
             String root = sc.next();
             String left = sc.next();
             String right = sc.next();
@@ -44,7 +43,6 @@ public class BJ1991 {
         }
 
         if (node.value == root) {
-            // 수정된 부분
             node.left = (left == '.' ? null : new tree(left, null, null));
             node.right = (right == '.' ? null : new tree(right, null, null));
         } else {
